@@ -1,0 +1,1 @@
+query_id=AAGxskN2AgAAALGyQ3ZKggHg&user=%7B%22id%22%3A6279115441%2C%22first_name%22%3A%22Krish%22%2C%22last_name%22%3A%22%F0%9F%8C%B1SEED%22%2C%22username%22%3A%22Krishkharinta%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727265663&hash=ed9501aa0bdae96c5f03a1bab2513e6e39da4a5c5896a50b56ea895ba1db73ce
